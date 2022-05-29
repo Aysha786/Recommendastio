@@ -10,7 +10,7 @@ It recommends top 5 movies based on user preference .
 
 ## How to Run
 
-To Run the project open the files in any ide such as paycharm and run the command -run streamlit app.py.
+To Run the project open the files in any ide such as paycharm and run the command -streamlit run app.py.
 this will automaticaly direct you to local host.
 ## Demo
 
